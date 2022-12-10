@@ -49,4 +49,5 @@
 <a href="https://www.linkedin.com/in/ziming-chen1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:zimingchen153@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ziming.chen.7/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://launchpass.launchacademy.com/users/ZimingChen3098/launcher_profile"><img src="https://img.shields.io/badge/-Launch%20Academy-brightgreen?style=for-the-badge&logoColor=white"</a>
 </p>
