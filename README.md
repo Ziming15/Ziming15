@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new languages, technologies and develop software solutions.\
-🎓 &nbsp;I recently graduated from an immersive coding bootcamp, Launch Academy 🚀 .\
+🎓 &nbsp;I recently graduated from an immersive coding bootcamp, Launch Academy. 🚀 \
 🌱 &nbsp;I'm currently learning about Full-stack development, COBOL and C++.\
 👨🏻‍💻 &nbsp;I'm currently working on [Me&u](http://meanu.onrender.com/).\
 🕹️ &nbsp;In my free time, I play video games and binge TV shows/movies.\
