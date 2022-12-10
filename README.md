@@ -12,7 +12,7 @@
 👨🏻‍💻 &nbsp;I'm currently working on [Me&u](http://meanu.onrender.com/).\
 🕹️ &nbsp;In my free time, I play video games and binge TV shows/movies.\
 🤝 &nbsp;I'm open to collaborating on Ruby on Rails and React.js projects.\
-✉️ &nbsp;You can shoot me an email at zimingchen153@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at zimingchen153@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/ziming15/ziming15/main/assets/Night-Coding.gif" align="right"/>
 
